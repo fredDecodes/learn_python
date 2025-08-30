@@ -18,4 +18,4 @@ Stores data in a text file.
 2. Navigate into the folder
 3. Run:
    ```bash
-   python todo.py
+   python todo-app.py
