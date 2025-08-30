@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fundamentals-blue" alt="focus"/>
-  <img src="https://img.shields.io/badge/Learning-Python-blue" alt="learning"/>
+  <img src="https://img.shields.io/badge/Learning-Python-green" alt="learning"/>
 </p>
 
 A simple command-line app built using Python.
