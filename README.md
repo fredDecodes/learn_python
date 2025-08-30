@@ -1,9 +1,21 @@
-# learn_python
+<h1 align=center>CLI To-do-App</h1>
 
-Learning foundamental concepts using python programing language.
+A simple command-line app built using Python.
+The app allows users to add, view, and delete tasks. 
+Stores data in a text file.
 
-## Understanding Variables and Functions
+## Features
+- Add new tasks
+- View all tasks
+- Delete tasks by index
+- Save tasks in a file for persistence
 
-Variable - a container to store a value.
+## Tech Stack
+- Python 3.x
 
-Function - a steps of instructions to perform a task.
+## How to Run
+1. Clone this repo
+2. Navigate into the folder
+3. Run:
+   ```bash
+   python todo.py
